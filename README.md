@@ -46,7 +46,11 @@ Has_to_GOto: it used to delcare what gate number should be .
 Has_to_GetIn: It used to declare what plane to take.  
 
 # Data Properties
+
 Departs_at: xsd:timeDate type used to describe the depart time of the plane .  
+
 Has_toPay: Used to specify the has to pay if there are any overwighted lugagges  
+
 Has_weight : It responsible about to identify the weight for each passenger.  
 
+After_Discount: This data property activates right after there any discount, and it cancels Has_toPay data porperty
